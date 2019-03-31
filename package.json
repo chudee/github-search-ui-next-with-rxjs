@@ -1,0 +1,31 @@
+{
+  "name": "github-search-ui-using-next-and-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Chudee",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@zeit/next-typescript": "^1.1.1",
+    "jss": "^9.8.7",
+    "next": "^8.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-jss": "^8.6.1",
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "@types/next": "^8.0.3",
+    "@types/node": "^11.12.2",
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3"
+  }
+}
